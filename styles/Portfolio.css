@@ -203,7 +203,8 @@ nav .menu a{
 #resume .resume-container{
     width: 71%;
     max-width: 1140px;
-    margin: 113px 500px 0;
+    /* margin: 113px 500px 0; */
+    margin: 113px auto 0;
     display: flex;
     justify-content: space-between;
     /* padding: 25px; */
@@ -253,9 +254,9 @@ nav .menu a{
     color: #757575;
 }
 
-.text-center button{
+/* .text-center button{
     margin-left: 100px;
-}
+} */
 
 footer{
     margin-top: 130px;
